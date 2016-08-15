@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://disentanglement.github.io
+title: disentanglement
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
